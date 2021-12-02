@@ -1,5 +1,5 @@
 # AdventOfCode2021FSharp
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oddrationale/AdventOfCode2021FSharp/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oddrationale/AdventOfCode2021FSharp/main?urlpath=lab)
 
 Solutions for [Advent of Code (AoC) 2021](https://adventofcode.com/2015) in F# using [.NET Interactive](https://github.com/dotnet/interactive).
 
